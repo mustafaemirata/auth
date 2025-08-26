@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434840764133",
+    "project_id": "authtutorial-d4b86",
+    "storage_bucket": "authtutorial-d4b86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434840764133:android:9e2d257b8c1791cf811e0c",
+        "android_client_info": {
+          "package_name": "com.mustafaemirata.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppkB1BPGX-u2Z8MqWqV4u8vmPRD8IG3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
